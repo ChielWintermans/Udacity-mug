@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, sans-serif;
+    line-height: 2.5;
+    color: #666;
+    font-size: 15px;
+}
+
+.featurebox {
+	margin-top: 22px;
+	padding: 20px 20px 20px 25px;
+	border-color: #ccc;
+	border: 1px solid;
+}
+h1 {
+	padding-top: 22px;
+	font-size: 48px;
+}
+h2 {
+	color: #f07c17;
+	font-weight: bold;
+	font-size: 24px;
+	padding-bottom: 15px;
+}
+.left {
+	padding-top: 22px;
+}
